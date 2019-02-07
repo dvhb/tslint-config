@@ -1,0 +1,32 @@
+{
+  "name": "@dvhb/tslint-config-react",
+  "version": "1.0.3",
+  "description": "dvhb tslint config for React",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvhb/tslint-config.git"
+  },
+  "keywords": [
+    "dvhb",
+    "react",
+    "tslint",
+    "typescript"
+  ],
+  "author": "Anton Savoskin <asav@dvhb.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvhb/tslint-config/issues"
+  },
+  "homepage": "https://github.com/dvhb/tslint-config#readme",
+  "dependencies": {
+    "tslint-react": "^3.6.0"
+  },
+  "peerDependencies": {
+    "tslint": "*",
+    "typescript": "*"
+  }
+}
