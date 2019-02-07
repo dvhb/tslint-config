@@ -2,7 +2,7 @@
   "name": "@dvhb/tslint-config",
   "version": "1.0.1",
   "description": "dvhb tslint config",
-  "main": "tslint.js",
+  "main": "tslint.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
