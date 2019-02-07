@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/dvhb/tslint-config/issues"
   },
-  "homepage": "https://github.com/dvhb/tslint-config#readme"
+  "homepage": "https://github.com/dvhb/tslint-config#readme",
+  "dependencies": {
+    "prettier": "^1.16.4",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "*"
+  }
 }

@@ -1,3 +1,7 @@
 {
-  "no-console": [true, "log"]
+  "extends": ["tslint-config-prettier", "tslint-plugin-prettier"],
+  "rules": {
+    "prettier": true,
+    "no-console": [true, "log"]
+  }
 }
