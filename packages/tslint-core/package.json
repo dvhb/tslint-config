@@ -1,5 +1,5 @@
 {
-  "name": "@dvhb/tslint-config-core",
+  "name": "@dvhb/tslint-config",
   "version": "1.0.2",
   "description": "dvhb tslint config",
   "main": "tslint.json",
