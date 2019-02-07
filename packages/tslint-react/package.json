@@ -1,6 +1,6 @@
 {
   "name": "@dvhb/tslint-config-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "dvhb tslint config for React",
   "main": "tslint.json",
   "scripts": {
