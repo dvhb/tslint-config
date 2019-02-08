@@ -23,5 +23,8 @@ In `tslint.json`:
 * [tslint-plugin-prettier](https://github.com/prettier/tslint-plugin-prettier) — runs Prettier as a TSLint rule
 
 ## Rules
-* `prettier` — checks code style with Prettier
 * `no-console` — forbids `console.log()`
+* `prettier` — checks code style with Prettier
+* `variable-name` — restrict variables names to camelCase
+  - `allow-pascal-case` — for classes, constructors and react components name
+  - `allow-leading-underscore` — for `noUnusedParameters` TS rule when required parameter of function is not first

@@ -1,7 +1,8 @@
 {
   "extends": ["tslint-config-prettier", "tslint-plugin-prettier"],
   "rules": {
+    "no-console": [true, "log"],
     "prettier": true,
-    "no-console": [true, "log"]
+    "variable-name": [true, "check-format", "allow-pascal-case", "allow-leading-underscore"]
   }
 }
