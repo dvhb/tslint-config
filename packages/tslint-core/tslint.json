@@ -1,5 +1,5 @@
 {
-  "extends": ["tslint-config-prettier", "tslint-plugin-prettier"],
+  "extends": ["tslint-config-airbnb", "tslint-config-prettier", "tslint-plugin-prettier"],
   "rules": {
     "no-console": [true, "log"],
     "prettier": true,
