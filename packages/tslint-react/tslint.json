@@ -1,5 +1,5 @@
 {
-  "extends": ["tslint-react"],
+  "extends": ["tslint-react", "@dvhb/tslint-config"],
   "rules": {
     "jsx-boolean-value": [true, "never"]
   }

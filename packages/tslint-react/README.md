@@ -12,13 +12,13 @@ In `tslint.json`:
 
 ```json
 {
-  "extends": "@dvhb/tslint-config-react @dvhb/tslint-config"
+  "extends": "@dvhb/tslint-config-react"
 }
 ```
-`@dvhb/tslint-config` package must be last in row for applying tslint-config-prettier rules
 
 ## Extends
 
+* [@dvhb/tslint-config](https://github.com/dvhb/tslint-config/tree/master/packages/tslint-core) — basic rules for DVHB projects
 * [tslint-react](https://github.com/palantir/tslint-react/) — default rules for React by [TSLint](https://palantir.github.io/tslint/) team
 
 ## Rules Overwrite
