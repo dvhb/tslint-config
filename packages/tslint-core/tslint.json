@@ -8,6 +8,6 @@
     "variable-name": [true, "check-format", "allow-pascal-case", "allow-leading-underscore"],
     "max-file-line-count": [true, 300],
     "max-line-length": [true, 120],
-    "function-name": [true, { "function-regex": "^[a-zA-Z][\\w\\d]+$" }]
+    "function-name": [ true, { "method-regex": "^[a-z][\\w\\d]+$", "private-method-regex": "^[a-z][\\w\\d]+$", "protected-method-regex": "^[a-z][\\w\\d]+$", "static-method-regex": "^[a-z][\\w\\d]+$", "function-regex": "^[a-zA-Z][\\w\\d]+$" } ]
   }
 }
