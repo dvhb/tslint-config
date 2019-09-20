@@ -1,6 +1,6 @@
 {
   "name": "@dvhb/tslint-config-react",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "dvhb tslint config for React",
   "main": "tslint.json",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dvhb/tslint-config#readme",
   "dependencies": {
-    "@dvhb/tslint-config": "^1.0.8",
+    "@dvhb/tslint-config": "^1.0.9",
     "tslint-react": "^3.6.0"
   },
   "peerDependencies": {
